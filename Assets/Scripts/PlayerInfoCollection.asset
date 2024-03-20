@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2447b73090ca1c45b7a9c73b2c9398c, type: 3}
+  m_Name: PlayerInfoCollection
+  m_EditorClassIdentifier: 
+  Players:
+  - Name: Erling
+    Surname: Haaland
+    JerseyNumber: 9
+    StarRating: 5
+  - Name: Kevin
+    Surname: De Bruyne
+    JerseyNumber: 17
+    StarRating: 5
+  - Name: Ruben
+    Surname: Dias
+    JerseyNumber: 3
+    StarRating: 5
+  - Name: Rodri
+    Surname: Rodri
+    JerseyNumber: 16
+    StarRating: 5
+  - Name: Ederson
+    Surname: Ederson
+    JerseyNumber: 31
+    StarRating: 5
+  - Name: Bernardo
+    Surname: Silva
+    JerseyNumber: 20
+    StarRating: 5
+  - Name: Scott
+    Surname: Carson
+    JerseyNumber: 33
+    StarRating: 5
+  - Name: Manuel
+    Surname: Akanji
+    JerseyNumber: 25
+    StarRating: 5
+  - Name: Nathan
+    Surname: Ake
+    JerseyNumber: 6
+    StarRating: 5
+  - Name: Josko
+    Surname: Gvardiol
+    JerseyNumber: 24
+    StarRating: 5
+  - Name: John
+    Surname: Stones
+    JerseyNumber: 5
+    StarRating: 5
+  - Name: Kyle
+    Surname: Walker
+    JerseyNumber: 2
+    StarRating: 5
+  - Name: Jeremy
+    Surname: Doku
+    JerseyNumber: 11
+    StarRating: 5
+  - Name: Phil
+    Surname: Foden
+    JerseyNumber: 47
+    StarRating: 5
+  - Name: Jack
+    Surname: Grealish
+    JerseyNumber: 10
+    StarRating: 5
+  - Name: Mateo
+    Surname: Kovacic
+    JerseyNumber: 8
+    StarRating: 5
+  - Name: Kalvin
+    Surname: Philips
+    JerseyNumber: 4
+    StarRating: 5
+  - Name: Julian
+    Surname: Alvarez
+    JerseyNumber: 19
+    StarRating: 5
